@@ -1,0 +1,80 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "Italiano Simples"
+      },
+      {
+        "id": 3,
+        "tipo": " 3 Queijos"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 2,
+        "tipo": "Maminha"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Cebola"
+      },
+      {
+        "id": 2,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 3,
+        "tipo": "Abacaxi"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em Produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgue": [
+    {
+      "nome": "ueslei olivera romeu",
+      "pao": "Italiano Branco",
+      "carne": "Alcatra",
+      "opcionais": [
+        "Cebola",
+        "Bacon",
+        "Abacaxi"
+      ],
+      "status": "Em Produção",
+      "id": 1
+    },
+    {
+      "nome": "nilza",
+      "pao": "Italiano Simples",
+      "carne": "Alcatra",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    }
+  ]
+}
